@@ -1,4 +1,4 @@
-  # 🚀 EaseHost Deployment System  
+# 🚀 EaseHost Deployment System  
 
 ![Node.js](https://img.shields.io/badge/Node.js-14.x+-green)
 ![AWS SDK](https://img.shields.io/badge/AWS_SDK-v3-blue)
